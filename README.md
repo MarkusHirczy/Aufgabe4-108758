@@ -2,7 +2,7 @@
 Submitted by 108758
 ## Introduction to Pandas DataFrames – Replicating an article in Markdown
 ### What is this Project about?
-This project is an example of using a Jupyter Notebook to render a .html file. The actual content is based on this [article](https://elearn.unigis.at/pluginfile.php/10754/mod_resource/content/29/assignments/Set1/Aufgabe4/PandasIntroduction.html). This project is part of the [UNIGIS]((https://unigis.at)) master's degree offered by the University of Salzburg, Austria.
+This project is an example of using a Jupyter Notebook to render a .html file. The actual content is based on this [article](https://elearn.unigis.at/pluginfile.php/10754/mod_resource/content/29/assignments/Set1/Aufgabe4/PandasIntroduction.html). This project is part of the [UNIGIS](https://unigis.at) master's degree offered by the University of Salzburg, Austria.
 ### Dependencies
 The following programs and libraries are used throughout the project:
 - Jupyter Notebook (.ipynb)
